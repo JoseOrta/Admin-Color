@@ -1,0 +1,14 @@
+
+.navbar, .jumbotron, .btn, h1 {
+
+/*    box-shadow: 2px 2px 10px  rgb(70, 69, 69);         /* Sombra normal */
+
+filter: drop-shadow(1px 1px 1px  rgb(44, 44, 44));
+}
+
+
+.table {
+    box-shadow: 1px 1px 5px #666;
+}
+
+body { background-color: rgb(230, 230, 230); }
